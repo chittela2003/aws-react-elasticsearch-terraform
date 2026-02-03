@@ -1,0 +1,8 @@
+version: '3.7'
+services:
+    aws-elasticsearch:
+        build: ./
+        image: aws-elasticsearch
+        container_name: aws-elasticsearch
+        ports:
+            - 3001:3001
