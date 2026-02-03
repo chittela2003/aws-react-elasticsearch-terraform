@@ -29,8 +29,8 @@ aws configure # configure your AWS CLI profile
 
 ```bash
 default_region      = "us-east-1"
-docker_username     = "matlau"
-github_username     = "MatthewCYLau"
+docker_username     = "tarun"
+github_username     = "tarun0518"
 github_project_name = "aws-react-elasticsearch-terraform"
 app_name            = "aws-elasticsearch-app"
 environment         = "staging"
