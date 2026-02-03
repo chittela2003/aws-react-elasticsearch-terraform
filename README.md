@@ -34,7 +34,7 @@ github_username     = "tarun0518"
 github_project_name = "aws-react-elasticsearch-terraform"
 app_name            = "aws-elasticsearch-app"
 environment         = "staging"
-upload_bucket_name  = "matlau-s3-es-upload"
+upload_bucket_name  = "tarun-s3-es-upload"
 ```
 
 ## Deploy Lambda packages
